@@ -12,6 +12,9 @@ Il y a quatre tables : **T_budget, T_bibliothécaire, T_commande, T_détail_comm
 
 1-	Utiliser Power Pivot pour créer des relations entre les tables, 
 
-2-	Calculer les KPI suivantes : budget_total, budget_dépense, budget_disponible, 
+2-	Calculer les KPIs suivantes : budget_total, budget_dépense, budget_disponible, 
 
 3-	Concevoir un TCD pour une automatisation du suivi budgétaire.
+
+
+J'ai utlisé le langage DAX d'Excel pour calculer les KPIs
